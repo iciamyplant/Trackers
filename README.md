@@ -13,8 +13,8 @@ Trackers = pisteurs =  « morceau » de logiciel en charge de collecter des info
 
 # II - Coder une application test
 
-Application Native = codées dans un langage qui est pris en charge en natif par le système d’exploitation d’un appareil spécifique
-Application Hybride = sont « multi-plateformes » qui n’ont pas besoin d’être construites séparément pour Android et iOS
+- Application Native = codées dans un langage qui est pris en charge en natif par le système d’exploitation d’un appareil spécifique
+- Application Hybride = sont « multi-plateformes » qui n’ont pas besoin d’être construites séparément pour Android et iOS
 
 Y a plein de langages voilà quelques un principaux : 
 

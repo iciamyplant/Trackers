@@ -1,11 +1,4 @@
-# Fonctionnement 
-
-trackers / coockie
-
-
-
-
-
+# I - Définition
 
 Trackers = pisteurs =  « morceau » de logiciel en charge de collecter des informations sur la personne qui utilise une application, ou bien sur les usages ou l'environnement de cette personne
 
@@ -18,10 +11,44 @@ Trackers = pisteurs =  « morceau » de logiciel en charge de collecter des info
 |Ads|identifier la personne qui utilise une application afin de lui présenter de la publicité ciblée. Cela n'est rendu possible et pertinent que si cette personne dispose déjà d'un profil virtuel, objectif de monétiser son application|
 |Location| déterminer la position géographique d'un mobile. Via : puce GPS, antennes GSM environnantes, réseaux wi-fi environnants, balises Bluetooth environnantes ou encore de sons particuliers émis par des hauts-parleurs|
 
-# créer une application mobile
+# II - Coder une application test
 
-étapes de création d'une app mobile?
-apparition des SDKs ? SDK = Software development kit = collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework
+Application Native = codées dans un langage qui est pris en charge en natif par le système d’exploitation d’un appareil spécifique
+Application Hybride = sont « multi-plateformes » qui n’ont pas besoin d’être construites séparément pour Android et iOS
+
+Y a plein de langages voilà quelques un principaux : 
+
+| Langage | Android | Apple | Commentaire
+|----------|-------|-------|-------|
+|Objective-C||oui||
+|Swift||oui|Successeur d’Objective-C, langage de programmation open-source, lancé par Apple|
+|Java|oui|||
+|Kotlin|oui|||
+|React Native|oui|oui||
+
+Framework SwiftUI = a declarative framework that developers use to compose the layout and behavior of multiplatform apps
+
+
+# III - Ajouter des trackers
+
+Recording audio : 
+
+
+SDK = Software development kit = collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework
+
+
+
+
+
+
+
+
+
+
+trackers / coockie
+
+
+
 
 # identification
 

@@ -48,6 +48,12 @@ Framework SwiftUI = a declarative framework that developers use to compose the l
 
 ### II.2 First App en Swift, avec Xcode
 
+````
+var nomVariable = valeur
+let nomConstante = valeur
+//option + clic sur la constante = ns donne son type
+````
+
 [Tuto suivi](https://www.youtube.com/watch?v=2C8J9SJ1os8)
 
 

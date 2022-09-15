@@ -1,0 +1,57 @@
+id,name,categories,code_signature,creation_date,network_signature,website
+17,Braze (formerly Appboy),"['Analytics', 'Advertisement', 'Location']",com.appboy,2017-09-24,appboy\.com,https://www.braze.com
+28,LeanPlum,"['Analytics', 'Profiling', 'Location']",com.leanplum.,2017-09-24,leanplum\.com,https://www.leanplum.com/
+37,Vectaury,"['Analytics', 'Profiling', 'Location']",io.vectaury.,2017-09-28,vectaury\.io,http://vectaury.io/
+44,OpenLocate,['Location'],com.safegraph.|com.openlocate,2017-11-16,api\.safegraph\.com,https://www.safegraph.com/
+57,Cuebiq,"['Analytics', 'Location']",com.cuebiq.cuebiqsdk.model.Collector|com.cuebiq.cuebiqsdk.receiver.CoverageReceiver,2017-12-03,cuebiq\.com,http://www.cuebiq.com/
+77,HyperTrack,['Location'],com.hypertrack|com.hypertracklive.|io.hypertrack,2018-01-05,api\.hypertrack\.com|hypertrack\.amazonaws\.com|trck\.at,http://hypertrack.com
+102,Estimote,"['Analytics', 'Location']",com.estimote.,2018-03-04,.*\.estimote\.com,https://estimote.com/
+144,Sense360,"['Analytics', 'Location']",com.sense360.android.,2018-08-16,android-quinoa-config-prod\.sense360eng\.com|incoming-data-sense360\.s3\.amazonaws\.com|quinoa-personal-identify-prod\.sense360eng\.com,https://sense360.com/
+174,CleverTap,"['Analytics', 'Profiling', 'Location']",com.clevertap.,2019-03-10,wzrkt\.com,https://clevertap.com/
+181,Pilgrim by Foursquare,['Location'],com.foursquare.pilgrim|com.foursquare.pilgrimsdk.android,2019-03-19,sdk\.foursquare\.com,https://enterprise.foursquare.com/products/pilgrim
+192,Swrve,"['Analytics', 'Profiling', 'Location']",com.swrve.sdk,2019-04-15,api\.swrve\.com|content\.swrve\.com,https://www.swrve.com/
+208,Moodmedia,"['Advertisement', 'Location']",com.moodmedia,2019-06-20,moodpresence\.com,https://us.moodmedia.com/
+209,Houndify,"['Identification', 'Location']",com.hound,2019-06-20,houndify\.com,https://www.houndify.com/
+210,OpenX,"['Analytics', 'Advertisement', 'Location']",com.openx.view.plugplay|com.openx.android_sdk_openx,2019-06-20,openx\.com|openx\.net|openx\.org|us-ads\.openx\.net,https://www.openx.com/
+212,Yinzcam Sobek,"['Analytics', 'Advertisement', 'Location']",com.yinzcam.sobek,2019-06-20,analytics\.yinzcam\.com,http://www.yinzcam.com/
+245,Reveal Mobile,"['Analytics', 'Location']",com.stepleaderdigital.reveal,2019-11-09,,https://revealmobile.com/
+279,Anagog,"['Analytics', 'Location']",com.anagog.jedai,2020-02-25,,https://anagog.com
+280,Bazaarvoice,"['Analytics', 'Location']",com.bazaarvoice.bvandroidsdk,2020-02-25,,https://www.bazaarvoice.com/
+281,BeaconsInSpace (Fysical),['Location'],com.beaconsinspace.android.beacon.detector.,2020-02-25,,https://beaconsinspace.com
+283,Glympse,['Location'],com.glympse.android.,2020-02-25,\.glympse\.com,https://glympse.com
+284,Herow,"['Analytics', 'Profiling', 'Location']",com.connecthings.herow,2020-02-25,,https://herow.io/
+285,Placer,"['Analytics', 'Profiling', 'Location']",com.placer.client.Placer,2020-02-25,,https://placer.io/
+289,Roximity,['Location'],com.roximity.sdk.,2020-02-25,app\.roximity\.com,http://roximity.com/
+291,SmartLook,"['Profiling', 'Location']",com.smartlook.sdk.smartlook.,2020-02-25,smartlook\.com,https://www.smartlook.com/
+298,Esri ArcGIS,['Location'],com.esri.arcgisruntime.,2020-06-08,,https://www.arcgis.com/
+307,Tamoco,"['Analytics', 'Location']",com.tamoco.sdk,2020-06-08,evt\.tamoco\.com,https://www.tamoco.com/
+310,Zapr,"['Analytics', 'Advertisement', 'Location']",com.redbricklane.zapr,2020-06-08,.zapr\.in,https://www.zapr.in/
+313,Unacast Pure,['Location'],com.pure.internal.|com.pure.sdk.,2020-07-13,,https://www.unacast.com/
+315,Footmarks,['Location'],com.footmarks.footmarkssdkm2,2020-09-19,,https://www.footmarks.com
+320,Verizon Ads,"['Analytics', 'Profiling', 'Identification', 'Advertisement', 'Location']",com.verizon.ads|com.verizondigitalmedia.mobile.|com.oath.mobile.,2020-09-19,,https://www.verizonmedia.com/
+323,360Dialog,"['Analytics', 'Profiling', 'Identification', 'Advertisement', 'Location']",com.threesixtydialog.sdk.,2020-09-19,,https://www.360dialog.com
+327,Actv8me,"['Profiling', 'Identification', 'Advertisement', 'Location']",me.actv8,2020-09-19,actv8technologies\.com,https://www.actv8me.com/
+333,Huawei Mobile Services (HMS) Core,"['Analytics', 'Advertisement', 'Location']",com.huawei.hms.analytics|com.huawei.hms.location|com.huawei.hms.plugin.analytics|com.huawei.hms.plugin.ads|com.huawei.updatesdk.|com.huawei.agconnect.|com.huawei.hms.support.api.push.,2020-11-25,,https://developer.huawei.com/consumer/en/hms
+341,Carto (formerly Nutiteq),"['Advertisement', 'Location']",com.nutiteq|com.carto,2020-12-13,,https://carto.com
+345,Lenddo,"['Analytics', 'Identification', 'Location']",com.lenddo.mobile,2020-12-13,\.partner-service\.link,https://www.lenddo.com/
+351,IPQualityScore,"['Profiling', 'Location']",com.ipqualityscore.,2021-01-24,ipqualityscore\.com,https://www.ipqualityscore.com
+352,Opensignal,"['Analytics', 'Location']",com.opensignal.datacollection.,2021-01-24,,https://www.opensignal.com
+353,SignalFrame,['Location'],com.wirelessregistry.observersdk.,2021-01-24,,https://signalframe.com/
+354,X-Mode,"['Analytics', 'Location']",io.xmode.BcnConfig|io.xmode.locationsdk|io.mysdk.,2021-01-24,api\.myendpoint\.io|bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com|api\.smartechmetrics\.com,https://xmode.io/
+357,PredicIO,"['Analytics', 'Identification', 'Advertisement', 'Location']",com.telescope.android|io.predic.tracker,2021-02-14,sdk\.predic\.io,https://www.predic.io/
+358,AdLocus,"['Profiling', 'Identification', 'Advertisement', 'Location']",com.adlocus.,2021-02-28,,https://adlocus.com
+361,AutoNavi / Amap,['Location'],com.amap.api,2021-02-28,grid\.amap\.com|tm\.amap\.com|mst[0-9]*\.is\.autonavi\.com|mt[0-9]*\.google\.cn|abroad\.apilocate\.amap\.com|apilocate\.amap\.com|restapi\.amap\.com|yuntuapi\.amap\.com|m5\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|apiinit\.amap\.com|restapi\.amap\.com|logs\.amap\.com|cgicol\.amap\.com|lbs\.amap\.com|wap\.amap\.com,https://mobile.amap.com/
+387,Anvato (A Google Company),"['Analytics', 'Profiling', 'Identification', 'Advertisement', 'Location']",com.anvato.androidsdk.,2021-03-12,.*\.anvato\.net,https://cloud.google.com/solutions/media-entertainment/?a=2
+388,Blesh,['Location'],com.blesh.sdk.,2021-03-12,,https://www.blesh.com/
+389,Bluecats,['Location'],com.bluecats.sdk,2021-03-12,,https://www.bluecats.com/
+394,IndoorAtlas,"['Analytics', 'Location']",com.indooratlas.android.sdk,2021-03-12,ipsws\.indooratlas\.com,http://www.indooratlas.com/
+396,MOCA,"['Analytics', 'Profiling', 'Location']",com.innoquant.moca,2021-03-12,api-device\.mocaplatform\.com,https://www.mocaplatform.com/
+397,Point Inside,"['Analytics', 'Location']",com.pointinside,2021-03-12,,https://www.pointinside.com/
+398,Proximi.io,"['Analytics', 'Location']",io.proximi.proximiiolibrary,2021-03-12,api\.proximi\.fi,https://proximi.io/
+401,Analytics by NPAW (Youbora Suite),"['Analytics', 'Profiling', 'Location']",com.npaw.youbora.,2021-05-07,,https://nicepeopleatwork.com/
+402,Beintoo,"['Analytics', 'Profiling', 'Advertisement', 'Location']",com.beintoo.nucleon,2021-05-07,,https://beintoo.com/
+404,Cedexis Radar,['Location'],com.cedexis,2021-05-07,cedexis\-radar\.net|cedexis\.com|radar\.cedexis\.com,https://www.cedexis.com/
+405,Cifrasoft,"['Identification', 'Advertisement', 'Location']",com.cifrasoft.,2021-05-07,\.tele\.fm,http://cifrasoft.com
+406,Flowsense,"['Analytics', 'Profiling', 'Location']",com.flowsense.flowsensesdk.,2021-05-07,,https://flowsense.com.br/
+408,Huq Sourcekit,"['Analytics', 'Location']",io.huq.sourcekit.,2021-05-07,,https://huq.io/
+414,Zendrive,"['Analytics', 'Profiling', 'Location']",com.zendrive.sdk.,2021-05-07,,https://www.zendrive.com/

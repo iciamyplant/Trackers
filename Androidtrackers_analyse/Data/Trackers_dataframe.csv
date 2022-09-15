@@ -1,0 +1,408 @@
+id,name,categories,code_signature,creation_date,network_signature,website
+1,Teemo,['Analytics'],com.databerries.|com.geolocstation.,2017-09-24,databerries\.com,https://www.teemo.co
+2,FidZup,['Analytics'],com.fidzup.,2017-09-24,fidzup,https://www.fidzup.com
+3,Audience Studio (Krux),"['Analytics', 'Profiling']",com.krux.androidsdk,2017-09-24,krxd\.net,https://www.salesforce.com/products/marketing-cloud/data-management/?mc=DMP
+4,Ad4Screen,['Advertisement'],com.ad4screen.sdk,2017-09-24,a4\.tl|accengage\.com|ad4push\.com|ad4screen\.com,http://www.ad4screen.com
+5,Google DoubleClick,[],,2017-09-24,2mdn\.net|dmtry\.com|doubleclick\.com|doubleclick\.net|mng-ads\.com,https://www.doubleclickbygoogle.com/
+6,Weborama,['Analytics'],com.weborama.,2017-09-24,weborama\.fr|weborama\.net,https://www.weborama.com
+7,Smart,[],com.smartadserver.,2017-09-24,adsrvr\.org|akamai\.smartadserver\.com|cdn1\.smartadserver\.com|diff2\.smartadserver\.com|diff3\.smartadserver\.com|diff\.smartadserver\.com|eqx\.smartadserver\.com|gallery\.smartadserver\.com|im2\.smartadserver\.com|insight\.adsrvr\.org|itx5-publicidad\.smartadserver\.com|itx5\.smartadserver\.com|js\.adsrvr\.org|match\.adsrvr\.org|preview\.smartadserver\.com|rtb-csync\.smartadserver\.com|saspreview\.com|smartadserver\.com|smartadserver\.ru|tmk\.smartadserver\.com|usw\-lax\.adsrvr\.org,http://smartadserver.com/
+8,JW Player,[],com.longtailvideo.jwplayer.,2017-09-24,g\.jwpsrv\.com|jwpltx\.com|p\.jwpcdn\.com,https://jwplayer.com
+9,Loggly,['Analytics'],com.github.tony19.timber.loggly|com.github.tony19.loggly|com.visiware.sync2ad.logger.loggly.,2017-09-24,loggly\.com,http://loggly.com/
+10,Xiti,[],,2017-09-24,,http://Xiti.com
+11,OutBrain,[],com.outbrain.,2017-09-24,outbrain\.com,http://www.outbrain.com/
+12,AppsFlyer,['Analytics'],com.appsflyer.,2017-09-24,appsflyer\.com,http://AppsFlyer.com
+13,Ligatus,[],.LigatusManager|.LigatusViewClient|com.ligatus.android.adframework,2017-09-24,ligatus\.com,http://ligatus.com
+14,Widespace,[],com.widespace.,2017-09-24,widespace\.com,http://widespace.com
+15,AppNexus,[],com.appnexus.opensdk.,2017-09-24,247realmedia\.com|adnxs\.com|appnexus\.com|appnexus\.net,https://www.appnexus.com/
+16,Localytics,"['Analytics', 'Profiling']",com.localytics.android.|com.localytics.androidx|com.localytics.react.,2017-09-24,analytics\.localytics\.com|manifest\.localytics\.com|profile\.localytics\.com|sdk-assets\.localytics\.com,http://localytics.com
+17,Braze (formerly Appboy),"['Analytics', 'Advertisement', 'Location']",com.appboy,2017-09-24,appboy\.com,https://www.braze.com
+18,mParticle,['Analytics'],com.mparticle,2017-09-24,mparticle\.com,http://mparticle.com
+20,S4M,['Analytics'],com.sam4mobile.|.S4MAnalytic,2017-09-24,s4m\.io|sam4m\.com,http://www.s4m.io/
+22,Sizmek,['Analytics'],.sizmek.,2017-09-24,serving-sys\.com,https://www.sizmek.com
+23,Batch,"['Analytics', 'Profiling']",com.batch.android.,2017-09-24,batch\.com,https://batch.com
+24,Sync2Ad,['Analytics'],com.visiware.sync2ad.dmp.,2017-09-24,sync2ad\.com,https://www.sync2ad.com/
+25,Flurry,"['Analytics', 'Advertisement']",com.flurry.,2017-09-24,flurry\.com,http://www.flurry.com
+26,HockeyApp,['Crash reporting'],net.hockeyapp.,2017-09-24,hockeyapp\.net,http://hockeyapp.net
+27,Google CrashLytics,['Crash reporting'],io.fabric.|com.crashlytics.|com.google.firebase.crashlytics|com.google.firebase.crash.|io.invertase.firebase.crashlytics.,2017-09-24,crashlytics\.com,http://crashlytics.com
+28,LeanPlum,"['Analytics', 'Profiling', 'Location']",com.leanplum.,2017-09-24,leanplum\.com,https://www.leanplum.com/
+29,Tinder Analytics,['Analytics'],com.tinder.analytics|com.tinder.ads,2017-09-24,etl\.tindersparks\.com,http://tinder.com
+30,Schibsted,[],.schibsted.,2017-09-25,schibsted\.com|schibsted\.io,http://www.schibsted.com/en/ir/
+31,ATInternet,['Analytics'],com.atinternet.,2017-09-25,ati-host\.net,https://www.atinternet.com/en/
+32,Tealium,['Analytics'],.tealium.,2017-09-25,tealiumiq\.com|tiqcdn\.com,https://tealium.com/
+33,Nexage,[],com.nexage.android.|org.nexage.,2017-09-27,nexage\.com,http://nexage.com/
+34,Ogury Presage,[],io.presage.,2017-09-27,presage\.io,http://www.presage.io/
+35,Twitter MoPub,"['Analytics', 'Advertisement']",com.mopub.,2017-09-27,mopub\.com,https://www.mopub.com/
+36,Add Apt Tr,[],com.intentsoftware.addapptr.,2017-09-27,aatkit\.com,https://www.addapptr.com
+37,Vectaury,"['Analytics', 'Profiling', 'Location']",io.vectaury.,2017-09-28,vectaury\.io,http://vectaury.io/
+38,Tune,['Analytics'],com.tune|com.mobileapptracker,2017-11-02,mobileapptracking\.com,https://www.tune.com
+39,Pushwoosh,[],com.pushwoosh,2017-11-12,pushwoosh\.com,https://www.pushwoosh.com/
+40,Demdex,['Analytics'],com.adobe.mobile.Analytics|com.adobe.mobile.Config.,2017-11-15,demdex\.net,https://www.adobe.com/data-analytics-cloud/audience-manager.html
+41,AdsWizz,[],.adswizz.,2017-11-15,adswizz\.com|cdn\.adswizz.com\.edgesuite\.net,http://www.adswizz.com/
+42,ExactTarget,['Analytics'],com.exacttarget.,2017-11-16,\.exacttarget\.,http://help.exacttarget.com/en/technical_library/API_Overview/
+43,Omniture,"['Analytics', 'Profiling']",com.omniture.|com.adobe.adms.measurement.,2017-11-16,omniture\.com|omtrdc\.net,https://www.adobe.com/analytics/adobe-analytics-features.html
+44,OpenLocate,['Location'],com.safegraph.|com.openlocate,2017-11-16,api\.safegraph\.com,https://www.safegraph.com/
+45,TagCommander (Commanders Act.),['Analytics'],com.tagcommander.,2017-11-28,\.commander1\.com|\.tagcommander.com,https://www.commandersact.com/
+46,CrowdTangle,[],,2017-12-03,api\.crowdtangle\.com,https://www.crowdtangle.com/
+47,Facebook Audience,['Analytics'],com.facebook.audiencenetwork,2017-12-03,\.facebook\.com,https://developers.facebook.com/docs/android/
+48,Google Analytics,['Analytics'],com.google.android.apps.analytics.|com.google.android.gms.analytics.|com.google.analytics.,2017-12-03,google-analytics\.com,http://www.google.com/analytics/
+49,Google Firebase Analytics,['Analytics'],com.google.firebase.analytics.|com.google.android.gms.measurement.|com.google.firebase.firebase_analytics,2017-12-03,firebase\.com,https://firebase.google.com/
+51,Eulerian,['Analytics'],com.eulerian.android.sdk,2017-12-03,eulerian\.com,https://www.eulerian.com/en/
+52,Adjust,['Analytics'],com.adjust.sdk.,2017-12-03,adj\.st|adjust\.com,https://www.adjust.com/
+53,ChartBoost,[],com.chartboost.sdk.,2017-12-03,\.chartboost\.com,https://answers.chartboost.com/en-us/
+54,Backelite,['Analytics'],com.backelite.android.|com.backelite.bkdroid.,2017-12-03,backelite\.com,https://www.backelite.com/
+55,Areametrics,['Analytics'],com.areametrics.areametricssdk|com.areametrics.nosdkandroid,2017-12-03,areametrics\.com,https://areametrics.com/
+56,ComScore,"['Analytics', 'Advertisement']",com.comscore.,2017-12-03,comscore\.com,https://comscore.com/
+57,Cuebiq,"['Analytics', 'Location']",com.cuebiq.cuebiqsdk.model.Collector|com.cuebiq.cuebiqsdk.receiver.CoverageReceiver,2017-12-03,cuebiq\.com,http://www.cuebiq.com/
+58,HelpShift,[],com.helpshift,2017-12-03,helpshift\.com,https://www.helpshift.com
+59,Kontakt,['Analytics'],com.kontakt.sdk.android.,2017-12-03,kontakt\.io,https://kontakt.io/
+60,Locuslabs,[],com.locuslabs.sdk,2017-12-03,locuslabs\.com,http://locuslabs.com
+61,Moat,"['Analytics', 'Advertisement']",com.moat.analytics.mobile.,2017-12-03,apx\.moatads\.com|geo\.moatads\.com|js\.moatads\.com|mb\.moatads\.com|moat\.com|pixel\.moatads\.com|px\.moatads\.com|sejs\.moatads\.com|yt\.moatads\.com|yts\.moatads\.com|z\.moatads\.com,https://moat.com/analytics
+62,Segment,"['Analytics', 'Profiling']",com.segment.analytics.,2017-12-03,api\.segment\.io|segment\.com,https://segment.com/
+63,Mobile Engagement,['Analytics'],com.ubikod.capptain.|com.microsoft.azure.engagement.,2017-12-04,login\.microsoftonline\.com|management\.azure\.com,https://docs.microsoft.com/en-us/azure/mobile-engagement/mobile-engagement-android-sdk-overview
+64,Colocator,['Analytics'],net.crowdconnected.androidcolocator,2017-12-04,colocator\.net,https://developers.colocator.net
+65,Facebook Ads,['Advertisement'],com.facebook.ads,2017-12-05,\.facebook\.com,https://developers.facebook.com/docs/android
+66,Facebook Analytics,['Analytics'],com.facebook.appevents|com.facebook.marketing.|com.facebook.CampaignTrackingReceiver,2017-12-05,\.facebook\.com,https://developers.facebook.com/docs/android
+67,Facebook Login,['Identification'],com.facebook.login,2017-12-05,\.facebook\.com,https://developers.facebook.com/docs/android
+68,Facebook Notifications,[],com.facebook.notifications,2017-12-05,\.facebook\.com,https://developers.facebook.com/docs/android
+69,Facebook Places,[],com.facebook.places,2017-12-05,\.facebook\.com,https://developers.facebook.com/docs/android
+70,Facebook Share,[],com.facebook.share,2017-12-05,\.facebook\.com,https://developers.facebook.com/docs/android
+71,Google Ads,[],,2017-12-05,\.google\.com,https://developers.google.com/admob/android
+72,AppLovin (MAX and SparkLabs),"['Analytics', 'Profiling', 'Identification', 'Advertisement']",com.applovin,2018-01-05,applovin\.com|applvn\.com,https://www.applovin.com/
+73,Glispa Connect (Formerly Avocarrot),[],com.avocarrot.sdk,2018-01-05,\.avocarrot\.com|ads\.glispa\.com|exp\.glispa\.com|rtb\.platform\.glispa\.com|templates\.glispaconnect\.com|trk\.glispa\.com,https://www.glispa.com
+74,NativeX,[],com.nativex,2018-01-05,nativex\.com,http://www.nativex.com/
+75,Baidu Maps,[],com.baidu.BaiduMap,2018-01-05,map\.baidu\.com,https://map.baidu.com
+76,WeChat Location,[],com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google,2018-01-05,map\.qq\.com,https://wechat.com
+77,HyperTrack,['Location'],com.hypertrack|com.hypertracklive.|io.hypertrack,2018-01-05,api\.hypertrack\.com|hypertrack\.amazonaws\.com|trck\.at,http://hypertrack.com
+78,Uber Analytics,['Analytics'],com.ubercab.analytics.|com.ubercab.library.metrics.analytics.|com.ubercab.client.core.analytics.,2018-01-05,events\.uber\.com,https://uber.com
+79,Lisnr,['Analytics'],com.lisnr.,2018-01-05,lisnr\.com,http://lisnr.com
+80,SilverPush,['Analytics'],com.silverpush.|com.silverpush.location|com.silverpush.sdk.android.SPService,2018-01-05,54\.243\.73\.253:8080/SilverPush/|silverpush\.co|silverpush\.com,http://silverpush.co
+81,Shopkick,['Analytics'],com.shopkick.sdk.api.|com.shopkick.fetchers.,2018-01-05,sdk\.shopkick\.com|shopkick\.com|shopkick\.de,https://shopkick.com
+82,Alphonso,['Analytics'],tv.alphonso.service,2018-01-05,api\.alphonso\.tv|prov\.alphonso\.tv,http://alphonso.tv
+83,Smaato,[],com.smaato.,2018-01-05,smaato\.net|soma\.smaato\.net,https://smaato.com
+84,Scandit,['Analytics'],com.scandit.,2018-01-05,scandit\.com,https://scandit.com
+85,Inrix,[],com.inrix.sdk,2018-01-06,inrix\.com|inrix\.io,http://inrix.com/
+86,Signal360,['Analytics'],com.signal360.sdk.core.|com.sonicnotify.sdk.core.|com.rnsignal360,2018-01-13,signal360\.com|sonicnotify\.com,http://www.signal360.com
+87,TeleQuid,[],com.telequid.,2018-03-04,mars\.telequid\.com,http://www.telequid.com/
+88,Retency,['Analytics'],com.retency.sdk.android,2018-03-04,,http://retency.com
+89,MAdvertise,[],com.mngads.sdk|com.mngads.views|com.mngads.,2018-03-04,dispatcher\.mng\-ads\.com|mobile\.mng\-ads\.com,http://madvertise.com
+90,AdColony,['Advertisement'],com.adcolony.|com.jirbo.adcolony.,2018-03-04,adc3-launch\.adcolony\.com|adcolony\.com|ads30\.adcolony\.com|androidads20\.adcolony\.com|androidads21\.adcolony\.com|androidads23\.adcolony\.com|events3alt\.adcolony\.com|wd\.adcolony\.com,http://adcolony.com/
+91,AccountKit,[],com.facebook.accountkit,2018-03-04,graph\.accountkit\.com,https://www.accountkit.com/
+92,Amazon Advertisement,[],com.amazon.device.ads,2018-03-04,,https://developer.amazon.com/public/apis/earn/mobile-ads/docs/quick-start
+93,Amazon Mobile Associates,[],com.amazon.device.associates,2018-03-04,,https://developer.amazon.com/mobile-associates
+94,Radius Networks,['Analytics'],com.radiusnetworks,2018-03-04,proximitykit\.radiusnetworks\.com,https://www.radiusnetworks.com/
+95,Amazon Analytics (Amazon insights),['Analytics'],com.amazon.insights|com.amazonaws.mobileconnectors.pinpoint.analytics.|com.amazonaws.mobileconnectors.amazonmobileanalytics,2018-03-04,mobileanalytics\.us-east-1\.amazonaws\.com,https://developer.amazon.com/docs/apps-and-games/sdk-downloads.html
+96,Baidu APPX,[],com.baidu.appx,2018-03-04,,https://app.baidu.com/
+97,Baidu Location,[],com.baidu.location,2018-03-04,,https://developer.baidu.com/
+99,Baidu Map,[],com.baidu.mapapi,2018-03-04,,http://lbsyun.baidu.com/
+100,Baidu Mobile Ads,[],com.baidu.mobads,2018-03-04,,https://developer.baidu.com/
+101,Baidu Mobile Stat,['Analytics'],com.baidu.mobstat,2018-03-04,,https://developer.baidu.com/
+102,Estimote,"['Analytics', 'Location']",com.estimote.,2018-03-04,.*\.estimote\.com,https://estimote.com/
+103,Baidu Navigation,[],com.baidu.navi,2018-03-04,,http://lbsyun.baidu.com/index.php?title=android-navsdk
+104,Fyber,['Advertisement'],com.fyber.,2018-03-04,adproxy\.fyber\.com|appengage-video\.fyber\.com|banner\.fyber\.com|engine\.fyber\.com|interstitial\.fyber\.com|mbe-cdn\.fyber\.com|offer\.fyber\.com|service\.fyber\.com|tracker\.fyber\.com|video-interstitial-assets-cdn\.fyber\.com|video\.fyber\.com,https://www.fyber.com/
+105,Google Tag Manager,['Analytics'],com.google.tagmanager|com.google.android.gms.tagmanager,2018-03-04,www\.googletagmanager\.com|www\.googletagservices\.com,https://www.google.com/analytics/tag-manager/
+106,Inmobi,[],com.inmobi|in.inmobi.,2018-03-04,c\.w\.inmobi\.com|china\.inmobi\.com|config-ltvp\.inmobi\.com|config\.inmobi\.com|et\.w\.inmobi\.com|i\.l\.inmobicdn\.net|i\.w\.inmobi\.com|inmobi\.cn|inmobi\.com|inmobi\.info|inmobi\.net|inmobi\.us|inmobicdn\.com|inmobicdn\.net|inmobisdk\-a\.akamaihd\.net|japan\.inmobi\.com|r\.w\.inmobi\.com|sdkm\.w\.inmobi\.com|sdktm\.w\.inmobi\.com|w\.inmobi\.com,http://inmobi.com
+107,Millennial Media,[],com.millennialmedia.,2018-03-04,adtech\.de|contextual\.media\.net|media\.net|millennialmedia\.com,https://www.millennialmedia.com/
+108,Snowplow,['Analytics'],com.snowplowanalytics.,2018-03-04,,https://snowplowanalytics.com/
+109,Fyber SponsorPay,[],com.sponsorpay,2018-03-04,appengage-video\.sponsorpay\.com|cdn1\.sponsorpay\.com|cdn2\.sponsorpay\.com|cdn3\.sponsorpay\.com|cdn4\.sponsorpay\.com|engine\.sponsorpay\.com,http://www.sponsorpay.com
+110,Supersonic Ads,[],com.supersonic.adapters.supersonicads|com.supersonicads.sdk,2018-03-04,click-haproxy\.supersonicads\.com|cx\.ssacdn\.com|init\.supersonicads\.com|logs\.supersonic\.com|outcome\.supersonicads\.com|ow-gateway\.supersonicads\.com|pixel-tracking\.sonic-us\.supersonicads\.com|rv-gateway\.supersonicads\.com|static\.ssacdn\.com|supersonic\.com|supersonicads-a\.akamaihd\.net|tag\-mediation.supersonic.com|ua\.supersonicads\.com|v\.ssacdn\.com|www\.supersonicads\.com,https://www.supersonic.com/
+111,Carnival,['Analytics'],com.carnival.sdk|com.carnivalmobile,2018-03-04,devices\.carnivalmobile\.com,http://carnival.io/
+112,Tencent Map LBS,[],com.tencent.lbs,2018-03-04,,https://lbs.qq.com/
+113,Tencent MobWin,[],com.tencent.mobwin,2018-03-04,,https://www.tencent.com/en-us/
+114,Tencent MTA,['Analytics'],com.tencent.mta,2018-03-04,,https://mta.qq.com/
+115,Apptentive,['Analytics'],com.apptentive.,2018-03-04,api\.apptentive\.com,https://www.apptentive.com/
+116,Tencent Stats,['Analytics'],com.tencent.stat|com.tencent.wxop.stat,2018-03-04,,http://stat.qq.com/
+117,Tencent Weiyun,[],com.tencent.weiyun,2018-03-04,,https://www.weiyun.com
+118,MixPanel,"['Analytics', 'Advertisement']",com.mixpanel.,2018-03-04,api\.mixpanel\.com|decide\.mixpanel\.com|mixpanel\.com|switchboard\.mixpanel\.com,https://mixpanel.com/
+119,Umeng Analytics,[],com.umeng.analytics,2018-03-04,alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com,https://www.umeng.com/analytics
+120,Umeng Feedback,[],com.umeng.fb,2018-03-04,alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com,http://dev.umeng.com/feedback
+121,Unity3d Ads,['Advertisement'],com.unity3d.services|com.unity3d.ads,2018-03-04,adserver\.unityads\.unity3d\.com|analytics\.social\.unity\.com|api\.uca\.cloud\.unity3d\.com|auction\.unityads\.unity3d\.com|cdn-highwinds\.unityads\.unity3d\.com|cdn\.unityads\.unity3d\.com|config\.uca\.cloud\.unity3d\.com|config\.unityads\.unity3d\.com|stats\.unity3d\.com|webview\.unityads\.unity3d\.com,https://unity3d.com/
+122,Countly,"['Analytics', 'Profiling']",ly.count.android.,2018-03-04,,https://count.ly/
+123,Urbanairship,[],com.urbanairship,2018-03-04,device-api\.urbanairship\.com|urbanairship\.com,https://www.urbanairship.com/
+124,Yandex Ad,['Advertisement'],com.yandex.mobile.ads,2018-03-04,analytics\.mobile\.yandex\.net|appmetrica\.yandex\.com|banners-slb\.mobile\.yandex\.net|banners\.mobile\.yandex\.net|mc\.yandex\.ru|report\.appmetrica\.yandex\.net|startup\.mobile\.yandex\.net,https://www.yandex.com/
+125,Amplitude,"['Analytics', 'Profiling']",com.amplitude.,2018-03-04,amplitude\.com|api\.amplitude\.com,http://www.amplitude.com
+126,AppSee,"['Analytics', 'Profiling', 'Identification']",com.appsee.,2018-03-04,api\.appsee\.com,https://www.appsee.com/
+127,Kochava,"['Analytics', 'Profiling', 'Advertisement']",com.kochava.base.|com.kochava.android.tracker.|.kochavaccpa.,2018-03-04,control\.kochava\.com|kvinit\-prod\.api\.kochava\.com,https://www.kochava.com/
+129,Webtrends,['Analytics'],com.webtrends.mobile.analytics.|com.webtrends.mobile.android,2018-03-04,dc\.webtrends\.com|webtrends\.com,https://www.webtrends.com/
+130,New Relic,['Analytics'],com.newrelic.agent.|com.newrelic.mobile.,2018-03-04,js-agent\.newrelic\.com|mobile-collector\.newrelic\.com|newrelic\.com|nr-data\.net,http://www.newrelic.com
+131,AppAnalytics,['Analytics'],io.appanalytics.sdk,2018-03-04,,http://appanalytics.io/
+132,Applause,"['Crash reporting', 'Analytics']",com.applause.android.,2018-03-04,,http://www.applause.com
+133,Quantcast,"['Analytics', 'Profiling']",com.quantcast.measurement.service.,2018-03-04,quantcast\.com|quantcast\.net,http://www.quantcast.com
+135,Apptimize,['Analytics'],com.apptimize.,2018-03-04,brahe\.apptimize\.com|md-a-c\.apptimize\.com|md-a-s\.apptimize\.com,http://www.apptimize.com
+136,AppBrain,[],com.appbrain.,2018-03-04,sdk\.appbrain\.com,https://www.appbrain.com/info/help/sdk/index.html
+137,Dynatrace,['Analytics'],com.dynatrace.android.app|com.dynatrace.agent|com.dynatrace.tools,2018-03-04,\.dynatrace\.com,https://www.dynatrace.com
+138,Matomo (Piwik),['Analytics'],org.piwik|org.piwik.mobile|org.matomo,2018-03-04,matomo\.org,https://matomo.org/mobile
+140,AppMetrica,[],com.yandex.metrica.,2018-03-04,analytics\.mobile\.yandex\.net|appmetrica\.yandex\.com|banners-slb\.mobile\.yandex\.net|banners\.mobile\.yandex\.net|mc\.yandex\.ru|report\.appmetrica\.yandex\.net|startup\.mobile\.yandex\.net,https://tech.yandex.com/metrica-mobile-sdk/
+142,Singlespot,['Analytics'],com.sptproximitykit.,2018-08-16,singlespot\.com,https://www.singlespot.com/
+143,Sensoro,[],com.sensoro.beacon.kit.|com.sensoro.cloud,2018-08-16,,https://www.sensoro.com/
+144,Sense360,"['Analytics', 'Location']",com.sense360.android.,2018-08-16,android-quinoa-config-prod\.sense360eng\.com|incoming-data-sense360\.s3\.amazonaws\.com|quinoa-personal-identify-prod\.sense360eng\.com,https://sense360.com/
+145,Rubicon Project,['Analytics'],com.rfm.sdk,2018-08-16,ads\.rubiconproject\.com|fastlane\.rubiconproject\.com|optimized-by\.rubiconproject\.com|pixel\.rubiconproject\.com|stats\.aws\.rubiconproject\.com|tap2-cdn\.rubiconproject\.com|video-ads\.rubiconproject\.com,https://rubiconproject.com
+146,ironSource,['Analytics'],com.ironsource.,2018-08-16,,https://www.ironsrc.com
+147,Heyzap (bought by Fyber),[],com.heyzap.sdk.ads.,2018-08-16,ads\.heyzap\.com|fyc\.heyzap\.com|img-cloudflare-2\.haizap\.com|img-cloudflare\.haizap\.com|med\.heyzap\.com|x\.heyzap\.com,https://www.heyzap.com
+148,Gigya,['Analytics'],com.gigya.,2018-08-16,cdn1\.gigya\.com|cdn2\.gigya\.com|cdn3\.gigya\.com|cdn\.gigya\.com|cdns\.us1\.gigya\.com,https://www.gigya.com
+149,Foresee,['Analytics'],com.foresee.sdk.ForeSee,2018-08-16,4seeresults\.com|analytics\.foresee\.com|foresee\.com|foreseeresults\.com|i\.4see\.mobi|rec\.replay\.answerscloud\.com,https://www.foresee.com
+150,Fiksu,[],com.fiksu.asotracking,2018-08-16,a\.fiksu\.com|sdk\.fiksu\.com,https://fiksu.com
+151,Ensighten,['Analytics'],com.ensighten.,2018-08-16,nexus\.ensighten\.com,https://www.ensighten.com
+152,Dynamic Yield,['Analytics'],com.dynamicyield.,2018-08-16,adm\.dynamicyield\.com|api\.dynamicyield\.com|cdn\.dynamicyield\.com|px\.dynamicyield\.com|st\.dynamicyield\.com,https://www.dynamicyield.com
+153,BlueKai (acquired by Oracle),['Analytics'],com.bluekai.sdk.,2018-08-16,stags\.bluekai\.com|tags\.bluekai\.com,http://bluekai.com/registry/
+154,BlueConic,['Analytics'],com.blueconic,2018-08-16,,https://www.blueconic.com
+155,Apteligent by VMWare (formerly Crittercism),[],com.crittercism.app.Crittercism,2018-08-16,api\.crittercism\.com|appload\.ingest\.crittercism\.com|txn\.ingest\.crittercism\.com,http://www.apteligent.com
+156,AdFit (Daum),[],com.kakao.adfit.,2018-08-16,analytics\.ad\.daum\.net|statistics\.videofarm\.daum\.net,https://www.daum.net
+157,Adform,[],com.adform.sdk.,2018-08-16,adform\.com|adformdsp\.net|adx\.adform\.net|files\.adform\.net|track\.adform\.net,https://site.adform.com
+158,Adfurikun,['Advertisement'],jp.tjkapp.adfurikunsdk.|com.glossomads.sdk.,2018-08-16,adfurikun\.jp|ginf\.adfurikun\.jp,https://adfurikun.jp/adfurikun/
+159,Mobvista,"['Analytics', 'Profiling']",com.mobvista.,2019-03-10,mobvista\.com,https://www.mobvista.com/
+160,Placed,[],com.placed.client,2019-03-10,,http://placed.com/
+161,Adot,[],com.adotmob,2019-03-10,sdk\.adotmob\.com|sync\.adotmob\.com|tracker\.adotmob\.com,https://we-are-adot.com/
+162,Appodeal,[],com.appodeal.ads.|com.appodealx.,2019-03-10,appodeal\.com|appodealx\.com,https://www.appodeal.com
+163,AppMonet,[],com.monet.,2019-03-10,,http://appmonet.com
+164,Soomla,[],com.soomla.,2019-03-10,soom\.la,https://soomla.com/
+165,Adincube,[],com.adincube.sdk.,2019-03-10,sdk\.adincube\.com,https://www.adincube.com/
+166,Persona.ly,[],ly.persona.sdk,2019-03-10,dev-api\.persona\.ly|dev\.dsp\.persona\.ly|dev\.persona\.ly|dsp\.persona\.ly|persona\.ly|rtb\.persona\.ly|sdk\.persona\.ly,http://persona.ly/
+167,Branch,['Analytics'],io.branch.,2019-03-10,api\.branch\.io,https://branch.io/
+168,Cheetah Ads,[],com.cmcm.,2019-03-10,cmcm\.com,https://www.cmcm.com/
+169,Vungle,['Advertisement'],com.vungle.publisher.|com.vungle.warren.,2019-03-10,ads\.api\.vungle\.com|akamai\.vungle\-cdn\.vungle\.com|api\.vungle\.akadns\.net|api\.vungle\.com|bd\.vungle\.com|billboard\.vungle\.com|cdn\-lb\.vungle\.com|ci\.vungle\.com|data\.vungle\.com|ingest\.vungle\.com|jaeger\.vungle\.com|ltv\-data\-api\.kube\-prod\.vungle\.com|monitoring\.vungle\.com|ssl\.vungle\.com|v\.vungle\.com,https://vungle.com
+170,Criteo,[],com.criteo.,2019-03-10,criteo\.com,https://www.criteo.com/
+171,Mapbox,[],com.mapbox.mapboxsdk.|com.mapbox.android.telemetry.,2019-03-10,a\.tiles\.mapbox\.com|api\.tiles\.mapbox\.com,https://www.mapbox.com/
+172,Optimizely,['Analytics'],com.optimizely.,2019-03-10,optimizely\.com,https://www.optimizely.com/
+173,Taboola,[],com.taboola.,2019-03-10,taboola\.com,https://www.taboola.com/
+174,CleverTap,"['Analytics', 'Profiling', 'Location']",com.clevertap.,2019-03-10,wzrkt\.com,https://clevertap.com/
+175,myTracker,[],com.my.tracker.,2019-03-10,tracker-api\.my\.com,https://tracker.my.com/
+176,Cloudmobi,[],com.cloudtech.,2019-03-10,api\.cloudmobi\.net|cloudmobi\.net|logger\.cloudmobi\.net|vast\.cloudmobi\.net,http://www.cloudmobi.net/
+177,ADLIB,[],com.mocoplex.adlib.,2019-03-10,adlibr\.com,https://adlibr.com
+178,Brightcove,[],com.brightcove,2019-03-19,metrics\.brightcove\.com,https://www.brightcove.com
+179,DOV-E,['Advertisement'],com.dv.DVSDK,2019-03-19,\.dov-e\.com,https://www.dov-e.com/
+180,InMarket,[],com.inmarket,2019-03-19,m2m-api\.inmarket\.com,https://inmarket.com/
+181,Pilgrim by Foursquare,['Location'],com.foursquare.pilgrim|com.foursquare.pilgrimsdk.android,2019-03-19,sdk\.foursquare\.com,https://enterprise.foursquare.com/products/pilgrim
+182,OtherLevels,[],com.otherlevels.,2019-03-19,api\.otherlevels\.com|geodata\.otherlevels\.com|mdn\.otherlevels\.com|rich\.otherlevels\.com|tags\.otherlevels\.com|ws\.otherlevels\.com,https://www.otherlevels.com/
+183,PubNative,['Advertisement'],net.pubnative,2019-03-19,pubnative\.net,https://pubnative.net/
+184,Appnext,[],com.appnext.,2019-03-19,appnext.com,https://www.appnext.com/
+185,MobFox,"['Analytics', 'Profiling', 'Advertisement']",com.mobfox.|com.adsdk.sdk.,2019-03-19,,https://www.mobfox.com/
+186,ShallWeAD,[],com.jm.co.shallwead.sdk.|com.co.shallwead.sdk.,2019-03-19,,http://www.shallwead.com
+187,deltaDNA,['Analytics'],com.deltadna,2019-03-19,deltadna\.net,https://deltadna.com/
+188,Display,[],io.display.,2019-03-19,display.io,https://www.display.io/en/
+189,HyprMX,['Advertisement'],com.hyprmx.android.sdk.,2019-04-15,hyprmx\.com,https://www.hyprmx.com
+190,Bugly,[],com.tencent.bugly.,2019-04-15,bugly\.qq\.com,https://bugly.qq.com/v2/
+191,Duapps,[],com.duapps.,2019-04-15,duapps\.com,http://ad.duapps.com/
+192,Swrve,"['Analytics', 'Profiling', 'Location']",com.swrve.sdk,2019-04-15,api\.swrve\.com|content\.swrve\.com,https://www.swrve.com/
+193,OneSignal,[],com.onesignal.,2019-04-15,onesignal\.com,https://onesignal.com/
+194,Appdynamics,"['Analytics', 'Profiling']",com.appdynamics.,2019-04-15,,https://www.appdynamics.com/
+195,Startapp,"['Analytics', 'Advertisement']",com.startapp.android.publish|com.startapp.,2019-04-15,c2i\.startappnetwork\.com|c2s\.startappnetwork\.com|click\.startappservice\.com|dts\.startappservice\.com|events\.startappservice\.com|images\.startappservice\.com|imp\.startappservice\.com|info\.static\.startappservice\.com|init\.startappservice\.com|req\.startappservice\.com|soda\.startappservice\.com|startappservice\.com|va\.origin\.startappservice\.com,https://www.startapp.com
+196,AerServ,['Advertisement'],com.aerserv.sdk.,2019-04-15,ads\.aerserv\.com|debug\.aerserv\.com,https://www.aerserv.com/
+197,INFOnline,[],de.infonline.,2019-04-15,de\.ioam\.de,https://www.infonline.de
+198,myTarget,['Advertisement'],com.my.target.,2019-04-15,.target\.my\.com,https://target.my.com/
+199,Tapjoy,[],com.tapjoy.,2019-04-15,tapjoy\.com|tapjoyads\.com|www\.5rocks\.io,https://www.tapjoy.com/
+200,Mintegral,"['Analytics', 'Advertisement']",com.mintegral.,2019-04-15,analytics\.rayjump\.com|cdn-adn\.rayjump\.com|de01\.rayjump\.com|de\.rayjump\.com|detect\.rayjump\.com|fk-mtrack\.rayjump\.com|hybird\.rayjump\.com|jssdk\.rayjump\.com|net\.rayjump\.com|online\.rayjump\.com|rayjump\.com|setting\.rayjump\.com|sg-mtrack\.rayjump\.com|sg01\.rayjump\.com|sg\.rayjump\.com|tknet\.rayjump\.com|us01\.rayjump\.com,https://www.mintegral.com/en/
+201,Gimbal,[],com.gimbal.android,2019-04-15,analytics-server\.gimbal\.com|api\.gimbal\.com|registration\.gimbal\.com|sdk-info\.gimbal\.com,https://gimbal.com/
+202,Conviva,[],com.conviva.,2019-04-15,cws\.conviva\.com,https://www.conviva.com/
+203,Auditude,[],com.auditude.ads,2019-05-02,auditude\.com,https://www.adobe.com/privacy/policies/auditude.html
+204,Instreamatic (Adman),"['Analytics', 'Advertisement']",com.instreamatic,2019-05-02,instreamatic\.com,http://instreamatic.com/
+205,GameAnalytics,"['Analytics', 'Profiling']",com.gameanalytics.sdk,2019-06-12,,https://gameanalytics.com/features
+206,Instabug,['Crash reporting'],com.instabug.,2019-06-12,,https://instabug.com/crash-reporting
+207,Bugsnag,['Crash reporting'],com.bugsnag.,2019-06-12,,https://www.bugsnag.com/
+208,Moodmedia,"['Advertisement', 'Location']",com.moodmedia,2019-06-20,moodpresence\.com,https://us.moodmedia.com/
+209,Houndify,"['Identification', 'Location']",com.hound,2019-06-20,houndify\.com,https://www.houndify.com/
+210,OpenX,"['Analytics', 'Advertisement', 'Location']",com.openx.view.plugplay|com.openx.android_sdk_openx,2019-06-20,openx\.com|openx\.net|openx\.org|us-ads\.openx\.net,https://www.openx.com/
+211,Taplytics,"['Analytics', 'Advertisement']",com.taplytics.sdk,2019-06-20,api\.taplytics\.com|ping\.tapylitics\.com,https://taplytics.com
+212,Yinzcam Sobek,"['Analytics', 'Advertisement', 'Location']",com.yinzcam.sobek,2019-06-20,analytics\.yinzcam\.com,http://www.yinzcam.com/
+213,Ooyala,['Advertisement'],com.ooyala,2019-07-01,ooyala\.com,https://www.ooyala.com/
+214,Kiip,['Advertisement'],me.kiip.sdk,2019-08-20,kiip\.me,https://www.ninthdecimal.com/
+215,MobPower,['Advertisement'],com.mobpower.,2019-08-20,api\.mobpowertech\.com|log\.mobpowertech\.com|mobpowertech\.com|scheme\.mobpowertech\.com,https://home.mobpowertech.com/
+216,AdBuddiz,['Advertisement'],com.purplebrain.adbuddiz.sdk.,2019-08-20,sdk\.adbuddiz\.com,http://www.adbuddiz.com/abuse?hl=fr
+218,Integral Ad Science,[],com.integralads.avid.library,2019-10-26,adsafeprotected\.com|iasds01\.com|integralads\.com,https://integralads.com
+219,AltBeacon,[],org.altbeacon.beacon.|com.altbeacon.beacon.|org.altbeacon.bluetooth.,2019-10-26,,https://altbeacon.org
+220,Salesforce Marketing Cloud,[],com.salesforce.marketingcloud,2019-10-26,,https://www.salesforce.com/products/marketing-cloud/
+221,Mozilla Telemetry,[],org.mozilla.telemetry|org.mozilla.gecko.telemetry|mozilla.telemetry.glean.,2019-10-26,,https://wiki.mozilla.org/Telemetry
+222,nend,['Advertisement'],net.nend.android|net.nend.unity.,2019-10-26,,https://nend.net/en/
+223,Pusher,[],com.pusher.client.,2019-10-26,,https://pusher.com/
+224,FreeWheel,['Advertisement'],tv.freewheel.ad.,2019-10-26,fwmrm\.net,http://freewheel.tv/
+225,TNK Factory,['Advertisement'],com.tnkfactory.ad,2019-10-26,,http://www.tnkfactory.com
+226,Axonix,[],com.axonix.android.sdk|com.mobclix.android.sdk,2019-10-26,ads\.mobclix\.com|axonix\.com|data\.mobclix\.com|mobclix\.com|s\.mobclix\.com,http://axonix.com/
+227,Gemius HeatMap,[],com.gemius.sdk,2019-10-26,gemius\.pl,https://heatmap.gemius.com
+228,YouAppi,[],com.youappi.sdk.,2019-10-26,,https://www.youappi.com
+229,Adobe Experience Cloud,[],com.adobe.marketing.mobile,2019-10-26,,https://www.adobe.com/experience-cloud.html
+230,Teads,['Advertisement'],tv.teads.|teads.tv.,2019-10-26,teads\.tv,https://www.teads.tv
+231,In Loco,[],com.inlocomedia.android,2019-10-26,inlocomedia\.com,https://inloco.com.br
+232,IQzone,['Advertisement'],com.iqzone,2019-10-26,,https://iqzone.com
+233,Bugfender,"['Crash reporting', 'Analytics']",com.bugfender.sdk.,2019-10-26,,https://bugfender.com/
+234,Wootric,['Analytics'],com.wootric.androidsdk.,2019-10-26,.wootric\.com\.herokudns\.com|wootric\.com,http://wootric.com
+235,KIDOZ,['Advertisement'],com.kidoz.sdk,2019-10-26,,https://kidoz.net/kidoz-sdk/
+236,PubMatic,['Advertisement'],com.pubmatic.sdk,2019-10-26,ads\.pubmatic\.com|aktrack\.pubmatic\.com|gads\.pubmatic\.com|image2\.pubmatic\.com|simage2\.pubmatic\.com,https://pubmatic.com/
+237,Kissmetrics,['Analytics'],com.kissmetrics,2019-11-09,,https://www.kissmetricshq.com/
+238,Microsoft Visual Studio App Center Crashes,['Crash reporting'],com.microsoft.appcenter.crashes,2019-11-09,,https://appcenter.ms/
+239,Webtrekk,['Analytics'],com.webtrekk.webtrekksdk,2019-11-09,,https://www.webtrekk.com/
+240,Google Analytics Plugin (Cordova),['Analytics'],com.danielcwilson.plugins.analytics,2019-11-09,,https://analytics.withgoogle.com/
+241,Bugsee,['Crash reporting'],com.bugsee.library.Bugsee,2019-11-09,,https://www.bugsee.com/
+242,Splunk MINT,['Analytics'],com.splunk.mint,2019-11-09,,https://mint.splunk.com/
+243,Microsoft Visual Studio App Center Analytics,['Analytics'],com.microsoft.appcenter.analytics|com.microsoft.azure.mobile.analytics,2019-11-09,,https://appcenter.ms/
+244,Nielsen,['Analytics'],com.nielsen.app,2019-11-09,,https://www.nielsen.com
+245,Reveal Mobile,"['Analytics', 'Location']",com.stepleaderdigital.reveal,2019-11-09,,https://revealmobile.com/
+246,Metrics,['Analytics'],com.codahale.metrics,2019-11-09,,https://metrics.dropwizard.io
+247,Repro,['Analytics'],io.repro.android.,2019-11-09,,https://repro.io/
+248,Sensors Analytics,['Analytics'],com.sensorsdata.analytics.android.sdk,2019-11-09,,https://www.sensorsdata.cn
+249,Tenjin,['Analytics'],com.tenjin.android.,2019-11-09,,https://www.tenjin.com/
+250,Tapstream,['Analytics'],com.tapstream.sdk,2019-11-09,,https://www.tapstream.com/
+251,Singular,['Analytics'],com.singular.sdk,2019-11-09,,https://singular.net/
+252,CallDorado,['Advertisement'],com.calldorado.android,2019-11-09,,http://calldorado.com
+253,UXCam,"['Analytics', 'Profiling']",com.uxcam.,2019-11-09,,https://uxcam.com/
+254,Upsight,"['Analytics', 'Profiling', 'Advertisement']",com.upsight.android,2019-11-09,,https://www.upsight.com/
+255,Appcelerator Analytics,['Analytics'],com.appcelerator.aps.|org.appcelerator.titanium.analytics,2019-11-09,appcelerator\.com|appcelerator\.net,https://www.appcelerator.com
+256,Adbrix,"['Analytics', 'Profiling']",com.igaworks.adbrix,2019-11-09,ad-brix\.com,http://ad-brix.com/
+257,Cauly,['Advertisement'],com.fsn.cauly|com.trid.tridad|com.cauly.android.ad.,2019-11-09,ad\.cauly\.co\.kr,https://www.cauly.net
+258,Tapdaq,['Advertisement'],com.tapdaq.sdk.|com.tapdaq.adapters.,2019-11-09,ads\.tapdaq\.com,https://www.tapdaq.com/
+259,Verve,['Advertisement'],com.vervewireless.advert.,2019-11-09,,https://www.verve.com
+260,Apsalar,"['Analytics', 'Profiling', 'Advertisement']",com.apsalar.sdk.,2019-11-09,e-ssl\.apsalar\.com|e\.apsalar\.com,https://singular.net
+261,PingStart,['Advertisement'],com.pingstart.adsdk.,2019-11-09,api\.pingstart\.com,http://pingstart.com
+262,Keen,['Analytics'],io.keen.client.,2019-11-09,api\.keen\.io,https://keen.io
+263,Revmob,['Advertisement'],com.revmob.ads.,2020-01-02,,https://www.crunchbase.com/organization/revmob
+264,Emarsys Predict,[],com.emarsys.predict,2020-01-02,recommender\.scarabresearch\.com,https://help.emarsys.com/hc/categories/115000670425-Predict
+265,Lotame,[],com.lotame.android,2020-01-02,ad\.crwdcntrl\.net,https://www.lotame.com/
+266,FollowAnalytics,[],com.followanalytics.,2020-01-02,sdk\.follow-apps\.com,https://www.followanalytics.com
+267,Chartbeat,['Analytics'],com.chartbeat.androidsdk,2020-01-02,.chartbeat\.com|.chartbeat\.net,https://chartbeat.com/
+268,MoEngage,['Analytics'],com.moengage.,2020-01-02,apiv2\.moengage\.com,https://www.moengage.com/
+269,Altamob,['Advertisement'],com.altamob.sdk,2020-01-02,api\.altamob\.com,https://www.altamob.com/en/index.html
+270,Tealeaf,['Analytics'],com.tl.uic.Tealeaf,2020-02-25,,https://acoustic.co/products/experience-analytics/
+271,AMoAd,[],com.amoad.,2020-02-25,,https://www.amoad.com
+272,AdAdapted,"['Analytics', 'Advertisement']",com.adadapted.android.sdk.,2020-02-25,ads\.adadapted\.com,https://www.adadapted.com
+273,AdMuing,['Advertisement'],com.admuing.danmaku.,2020-02-25,,https://github.com/admuing
+274,Adcash,['Advertisement'],com.adcash.mobileads.,2020-02-25,,https://adcash.com
+275,Admixer,['Advertisement'],com.admixer|net.admixer.sdk,2020-02-25,admixer\.co\.kr,http://admixer.co.kr/
+276,Admost,['Advertisement'],admost.sdk.|admost.adserver.,2020-02-25,cdn\-api\.admost\.com|go\.admost\.com|med\-api\.admost\.com,https://admost.com/
+277,Alohalytics,['Analytics'],org.alohalytics.,2020-02-25,,https://github.com/biodranik/Alohalytics
+278,Amobee,[],com.amobee.,2020-02-25,amobee\.com,https://amobee.com
+279,Anagog,"['Analytics', 'Location']",com.anagog.jedai,2020-02-25,,https://anagog.com
+280,Bazaarvoice,"['Analytics', 'Location']",com.bazaarvoice.bvandroidsdk,2020-02-25,,https://www.bazaarvoice.com/
+281,BeaconsInSpace (Fysical),['Location'],com.beaconsinspace.android.beacon.detector.,2020-02-25,,https://beaconsinspace.com
+282,Conversant,[],com.conversantmedia|com.greystripe.android.,2020-02-25,conversantmedia\.com,https://www.conversantmedia.com
+283,Glympse,['Location'],com.glympse.android.,2020-02-25,\.glympse\.com,https://glympse.com
+284,Herow,"['Analytics', 'Profiling', 'Location']",com.connecthings.herow,2020-02-25,,https://herow.io/
+285,Placer,"['Analytics', 'Profiling', 'Location']",com.placer.client.Placer,2020-02-25,,https://placer.io/
+286,PushSpring,[],com.pushspring.sdk.PushSpring,2020-02-25,api\.pushspring\.com,http://www.pushspring.com/
+287,Pyze,['Analytics'],com.pyze.,2020-02-25,pyze\.com,https://pyze.com/
+288,Radar,[],io.radar.sdk.Radar,2020-02-25,,https://radar.io/
+289,Roximity,['Location'],com.roximity.sdk.,2020-02-25,app\.roximity\.com,http://roximity.com/
+290,Sentiance,[],com.sentiance.sdk.,2020-02-25,api\.sentiance\.com,https://www.sentiance.com/
+291,SmartLook,"['Profiling', 'Location']",com.smartlook.sdk.smartlook.,2020-02-25,smartlook\.com,https://www.smartlook.com/
+292,Square Metrics,[],com.beaconinside.proximitysdk.ProximityService,2020-02-25,api\.beaconinside\.com,https://www.squaremetrics.com
+293,TalkingData,"['Analytics', 'Advertisement']",com.talkingdata.sdk.|com.tendcloud.tenddata.|com.talkingdata.appanalytics.|com.talkingdata.adtracking.|com.tendcloud.appcpa.|com.apptalkingdata.push.|com.gametalkingdata.push.,2020-02-25,account\.talkingdata\.com|av1\.xdrig\.com|cloud\.xdrig\.com|m\.talkingdata\.com|push\.xdrig\.com,https://www.talkingdata.com/
+294,flymob,[],com.flymob.sdk.,2020-02-25,,https://flymob.com/
+295,AdFalcon,['Advertisement'],com.noqoush.adfalcon.android.sdk,2020-06-08,,http://adfalcon.com
+296,Bitly,[],com.bitly.Bitly,2020-06-08,,https://bitly.com/
+297,Enhance,[],co.enhance.Enhance,2020-06-08,app-config\.enhance\.co|data-location\.enhance\.co,https://enhance.co
+298,Esri ArcGIS,['Location'],com.esri.arcgisruntime.,2020-06-08,,https://www.arcgis.com/
+299,GIPHY Analytics,['Analytics'],com.giphy.sdk.analytics,2020-06-08,api\.giphy\.com|pingback\.giphy\.com,https://giphy.com/
+300,Heap,['Analytics'],com.heapanalytics,2020-06-08,heapanalytics.com,https://heap.io/
+301,Inneractive,['Advertisement'],com.inneractive.api.ads,2020-06-08,,https://www.crunchbase.com/organization/inneractive
+302,MDOTM,['Advertisement'],com.mdotm.android,2020-06-08,ads\.mdotm\.com,http://mdotm.com/
+303,Metaps,['Advertisement'],com.metaps,2020-06-08,,http://www.metaps.com
+304,Parse.ly,['Analytics'],com.parsely.parselyandroid,2020-06-08,,https://www.parse.ly/
+305,Pollfish,['Profiling'],com.pollfish,2020-06-08,,https://www.pollfish.com
+306,Qualtrics,[],com.qualtrics.digital.,2020-06-08,qualtrics\.com,http://www.qualtrics.com/
+307,Tamoco,"['Analytics', 'Location']",com.tamoco.sdk,2020-06-08,evt\.tamoco\.com,https://www.tamoco.com/
+308,Vpon,"['Analytics', 'Profiling', 'Advertisement']",com.vpon.ads,2020-06-08,,https://www.vpon.com/
+309,YuMe,['Advertisement'],com.yume.android,2020-06-08,,https://www.appbrain.com/stats/libraries/details/yume/yume
+310,Zapr,"['Analytics', 'Advertisement', 'Location']",com.redbricklane.zapr,2020-06-08,.zapr\.in,https://www.zapr.in/
+311,mediba,['Advertisement'],com.mediba.jp|mediba.ad.sdk.android.openx,2020-06-08,,https://www.mediba.jp
+312,Google AdMob,['Advertisement'],com.google.ads.|com.google.android.gms.ads.AdView|com.google.android.gms.ads.AdActivity|com.google.android.gms.ads.AdRequest|com.google.android.gms.ads.mediation|com.google.android.gms.ads.doubleclick|com.google.android.ads.|com.google.unity.ads.|com.google.android.gms.admob|com.google.firebase.firebase_ads.,2020-06-24,2mdn\.net|\.google\.com|dmtry\.com|doubleclick\.com|doubleclick\.net|mng-ads\.com,https://admob.google.com
+313,Unacast Pure,['Location'],com.pure.internal.|com.pure.sdk.,2020-07-13,,https://www.unacast.com/
+314,Factual,[],com.factual.engine|com.factual.Factual,2020-09-19,api.factual.com,https://www.factual.com
+315,Footmarks,['Location'],com.footmarks.footmarkssdkm2,2020-09-19,,https://www.footmarks.com
+316,OzTAM,['Analytics'],au.com.oztam.,2020-09-19,deliver.oztam.com.au,https://oztam.com.au/
+317,Receptiv (formerly Mediabrix),['Advertisement'],com.mediabrix.android,2020-09-19,,https://www.receptiv.com/
+318,Tutela,[],com.tutelatechnologies.sdk,2020-09-19,,https://www.tutela.com/
+319,Twine Data,[],com.twine.sdk,2020-09-19,,https://www.truedata.co/
+320,Verizon Ads,"['Analytics', 'Profiling', 'Identification', 'Advertisement', 'Location']",com.verizon.ads|com.verizondigitalmedia.mobile.|com.oath.mobile.,2020-09-19,,https://www.verizonmedia.com/
+321,adPOPcorn,[],com.igaworks.adpopcorn|com.igaworks.ssp.,2020-09-19,,https://adpopcorn.com/
+322,maio by i-mobile,[],jp.maio.sdk.,2020-09-19,,https://adpf-info.i-mobile.co.jp/en/
+323,360Dialog,"['Analytics', 'Profiling', 'Identification', 'Advertisement', 'Location']",com.threesixtydialog.sdk.,2020-09-19,,https://www.360dialog.com
+324,ABTasty,['Analytics'],com.abtasty,2020-09-19,abtasty\.com,https://www.abtasty.com
+325,ACRCloud,['Analytics'],com.acrcloud,2020-09-19,acrcloud.com|hb-minify-juc1ugur1qwqqqo4.stackpathdns.com,https://acrcloud.com/
+326,Aarki,"['Analytics', 'Profiling', 'Identification', 'Advertisement']",com.aarki,2020-09-19,,https://www.aarki.com
+327,Actv8me,"['Profiling', 'Identification', 'Advertisement', 'Location']",me.actv8,2020-09-19,actv8technologies\.com,https://www.actv8me.com/
+328,IAB Open Measurement,"['Identification', 'Advertisement']",com.iab.omid.library|com.prime31.util.IabHelperImpl|com.prime31.IAB.,2020-09-19,,https://iabtechlab.com/
+333,Huawei Mobile Services (HMS) Core,"['Analytics', 'Advertisement', 'Location']",com.huawei.hms.analytics|com.huawei.hms.location|com.huawei.hms.plugin.analytics|com.huawei.hms.plugin.ads|com.huawei.updatesdk.|com.huawei.agconnect.|com.huawei.hms.support.api.push.,2020-11-25,,https://developer.huawei.com/consumer/en/hms
+334,Akamai MAP,['Analytics'],com.akamai.android.sdk.AkaMap,2020-11-27,,https://www.akamai.com/
+336,Mail.ru,[],ru.mail.mrgservice.advertising|ru.mail.mrgservice.analytics,2020-11-27,,http://mail.ru
+337,Airpush,['Advertisement'],com.airpush.,2020-12-13,api\.airpush\.com|apidm\.airpush\.com|apistaging\.airpush\.com|apportal\.airpush\.com|appwall\.api\.airpush\.com|beta\.airpush\.com|cdnap\.airpush\.com|m\.airpush\.com,https://airpush.com/
+338,Alimama (formerly AdsMogo),['Advertisement'],com.adsmogo.|com.alimama.,2020-12-13,\.alimama\.|\.adsmogo\.,https://www.alimama.com/
+339,AnySDK,"['Analytics', 'Advertisement']",com.anysdk.framework.AnalyticsWrapper|com.anysdk.framework.AdsWrapper,2020-12-13,,http://www.anysdk.com/
+340,Button,"['Analytics', 'Profiling', 'Identification']",com.usebutton.sdk.,2020-12-13,\.usebutton.com,https://www.usebutton.com
+341,Carto (formerly Nutiteq),"['Advertisement', 'Location']",com.nutiteq|com.carto,2020-12-13,,https://carto.com
+342,Didomi,['Analytics'],io.didomi.sdk.,2020-12-13,,https://www.didomi.io/
+343,JiGuang Aurora Mobile JPush,['Analytics'],cn.jpush.android,2020-12-13,.*\.jiguang\.cn,https://ir.jiguang.cn/corporate-profile
+344,Jumio,['Identification'],com.jumio.MobileSDK,2020-12-13,mobile-sdk-resources.jumio.com|nv-sdk.jumio.com,https://www.jumio.com/
+345,Lenddo,"['Analytics', 'Identification', 'Location']",com.lenddo.mobile,2020-12-13,\.partner-service\.link,https://www.lenddo.com/
+346,POKKT,['Advertisement'],com.pokkt.sdk.,2020-12-13,,https://www.pokkt.com
+347,Prebid Mobile,['Advertisement'],org.prebid.mobile,2020-12-13,.prebid.org,https://prebid.org
+348,SK planet Tad,['Advertisement'],com.skplanet.tad,2020-12-13,,https://www.skplanet.com/eng
+349,Split,['Analytics'],io.split.android.,2020-12-13,event.split.io|sdk.split.io,https://www.split.io/
+350,Exponea,['Analytics'],com.infinario.android.infinariosdk.|com.exponea.sdk|com.sygic.aura.,2021-01-24,api.infinario.com|sygic-api.infinario.com,https://exponea.com
+351,IPQualityScore,"['Profiling', 'Location']",com.ipqualityscore.,2021-01-24,ipqualityscore\.com,https://www.ipqualityscore.com
+352,Opensignal,"['Analytics', 'Location']",com.opensignal.datacollection.,2021-01-24,,https://www.opensignal.com
+353,SignalFrame,['Location'],com.wirelessregistry.observersdk.,2021-01-24,,https://signalframe.com/
+354,X-Mode,"['Analytics', 'Location']",io.xmode.BcnConfig|io.xmode.locationsdk|io.mysdk.,2021-01-24,api\.myendpoint\.io|bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com|api\.smartechmetrics\.com,https://xmode.io/
+355,OneAudience,"['Analytics', 'Profiling']",com.oneaudience.sdk.,2021-02-14,,http://www.oneaudience.com/
+356,OpenBack,[],com.openback,2021-02-14,,https://www.openback.com
+357,PredicIO,"['Analytics', 'Identification', 'Advertisement', 'Location']",com.telescope.android|io.predic.tracker,2021-02-14,sdk\.predic\.io,https://www.predic.io/
+358,AdLocus,"['Profiling', 'Identification', 'Advertisement', 'Location']",com.adlocus.,2021-02-28,,https://adlocus.com
+359,Adcenix,['Advertisement'],com.adcenix.,2021-02-28,,http://adcenix.com
+360,Admitad,['Advertisement'],ru.tachos.admitadstatisticsdk,2021-02-28,.*\.admitad.com,https://www.admitad.com
+361,AutoNavi / Amap,['Location'],com.amap.api,2021-02-28,grid\.amap\.com|tm\.amap\.com|mst[0-9]*\.is\.autonavi\.com|mt[0-9]*\.google\.cn|abroad\.apilocate\.amap\.com|apilocate\.amap\.com|restapi\.amap\.com|yuntuapi\.amap\.com|m5\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|apiinit\.amap\.com|restapi\.amap\.com|logs\.amap\.com|cgicol\.amap\.com|lbs\.amap\.com|wap\.amap\.com,https://mobile.amap.com/
+362,IBM Digital Analytics,['Analytics'],com.digitalanalytics.,2021-02-28,data\.de\.coremetrics\.com,https://www.ibm.com/customer-engagement/coremetrics-software
+363,Pangle,['Advertisement'],com.bytedance.sdk.openadsdk|com.bytedance.tea.crash.|com.bytedance.embedapplog.|com.bytedance.applog.,2021-02-28,,https://www.pangleglobal.com
+364,YOC VIS.X,['Advertisement'],com.yoc.visx,2021-02-28,yoc-performance\.com|yoc\.com,https://yoc.com
+365,Ad Generation,['Advertisement'],com.socdm.d.adgeneration.,2021-03-01,,https://supership.jp/business/adgeneration/
+366,Adjoe,['Advertisement'],io.adjoe.sdk.|io.adjoe.protection.,2021-03-01,,https://adjoe.io/
+367,AppVador,['Advertisement'],com.appvador.ads.,2021-03-01,,http://www.appvador.com/
+368,Appodeal Stack,"['Analytics', 'Advertisement']",com.explorestack.,2021-03-01,,https://appodealstack.com/about/
+369,AppsGeyser,['Advertisement'],com.appsgeyser.sdk|com.appsgeyser.multiTabApp.VideoPlayerActivity,2021-03-01,,https://appsgeyser.com/
+370,BidMachine,['Advertisement'],io.bidmachine.,2021-03-01,,https://bidmachine.io/
+371,BugSense,['Crash reporting'],com.bugsense.trace.,2021-03-01,,http://www.bugsense.com/
+372,BuzzAd Benefit,['Advertisement'],com.buzzvil.,2021-03-01,,https://buzzvil.atlassian.net/wiki/spaces/BDG/pages/486834313/BuzzAd-Benefit+Android+SDK
+373,GOM Factory AdPie,['Advertisement'],com.gomfactory.adpie.,2021-03-01,,http://www.gomfactory.com
+374,JumpTap,['Advertisement'],com.jumptap.adtag.,2021-03-01,,http://www.millennialmedia.com
+375,LoopMe,['Advertisement'],com.loopme.,2021-03-01,,https://loopme.com/
+376,Raygun,"['Crash reporting', 'Analytics']",com.mindscapehq.android.raygun4android,2021-03-01,,https://raygun.com
+377,RjFun,['Advertisement'],com.rjfun.cordova.ad|com.rjfun.cordova.admob,2021-03-01,,https://rjfun.github.io/
+378,SuperAwesome,['Advertisement'],tv.superawesome.sdk|tv.superawesome.lib.,2021-03-01,,https://www.superawesome.com/
+379,TapResearch,"['Analytics', 'Profiling']",com.tapr.sdk.|com.tapr.internal.|com.tapr.helpers.,2021-03-01,,https://www.tapresearch.com/
+380,Tappx,['Advertisement'],com.tappx.sdk.,2021-03-01,,https://www.tappx.com/
+381,ThinkingData Analytics,"['Analytics', 'Identification']",cn.thinkingdata.,2021-03-01,,http://www.thinkingdata.cn/
+382,VKontakte SDK,['Identification'],com.vk.sdk.|com.vk.api.sdk.,2021-03-01,,https://vksdk.github.io/vk-sdk-android/
+383,Virgo Mobile,['Advertisement'],com.virgo.ads.,2021-03-01,,http://virgomobile.com/
+384,Zoho Analytics,['Analytics'],com.zoho.zanalytics.,2021-03-01,,http://analytics.zoho.com/
+385,fineboost,"['Analytics', 'Advertisement']",com.fineboost.,2021-03-01,,http://www.yifants.cn/
+386,Acuant,['Profiling'],com.acuant.acuantcamera,2021-03-12,frm\.acuant\.net|medicscan\.acuant\.net|services\.assureid\.net,https://www.acuantcorp.com
+387,Anvato (A Google Company),"['Analytics', 'Profiling', 'Identification', 'Advertisement', 'Location']",com.anvato.androidsdk.,2021-03-12,.*\.anvato\.net,https://cloud.google.com/solutions/media-entertainment/?a=2
+388,Blesh,['Location'],com.blesh.sdk.,2021-03-12,,https://www.blesh.com/
+389,Bluecats,['Location'],com.bluecats.sdk,2021-03-12,,https://www.bluecats.com/
+390,CoolaData,"['Analytics', 'Profiling']",com.cooladata.android.,2021-03-12,,https://www.cooladata.com/
+391,FLUZO,['Analytics'],com.fluzo.sdk.,2021-03-12,,https://www.fluzo.com/
+392,Facebook Flipper,['Analytics'],com.facebook.flipper,2021-03-12,,https://fbflipper.com
+393,GPShopper,['Analytics'],com.gpshopper,2021-03-12,sdk\.gpshopper\.com|sypi\.gpshopper\.com,https://www.crunchbase.com/organization/gpshopper
+394,IndoorAtlas,"['Analytics', 'Location']",com.indooratlas.android.sdk,2021-03-12,ipsws\.indooratlas\.com,http://www.indooratlas.com/
+395,Janrain,['Identification'],com.janrain.android|com.janrain.android.engage|com.janrain.android.capture,2021-03-12,,https://en.wikipedia.org/wiki/Janrain
+396,MOCA,"['Analytics', 'Profiling', 'Location']",com.innoquant.moca,2021-03-12,api-device\.mocaplatform\.com,https://www.mocaplatform.com/
+397,Point Inside,"['Analytics', 'Location']",com.pointinside,2021-03-12,,https://www.pointinside.com/
+398,Proximi.io,"['Analytics', 'Location']",io.proximi.proximiiolibrary,2021-03-12,api\.proximi\.fi,https://proximi.io/
+399,ScoreLoop,[],com.scoreloop.client.android,2021-03-12,,https://www.scoreloop.com
+400,Alooma,['Analytics'],com.github.aloomaio.androidsdk,2021-05-07,inputs\.alooma\.com,https://www.alooma.com
+401,Analytics by NPAW (Youbora Suite),"['Analytics', 'Profiling', 'Location']",com.npaw.youbora.,2021-05-07,,https://nicepeopleatwork.com/
+402,Beintoo,"['Analytics', 'Profiling', 'Advertisement', 'Location']",com.beintoo.nucleon,2021-05-07,,https://beintoo.com/
+403,Bolts,['Analytics'],com.parse.bolts,2021-05-07,,https://github.com/BoltsFramework/Bolts-Android
+404,Cedexis Radar,['Location'],com.cedexis,2021-05-07,cedexis\-radar\.net|cedexis\.com|radar\.cedexis\.com,https://www.cedexis.com/
+405,Cifrasoft,"['Identification', 'Advertisement', 'Location']",com.cifrasoft.,2021-05-07,\.tele\.fm,http://cifrasoft.com
+406,Flowsense,"['Analytics', 'Profiling', 'Location']",com.flowsense.flowsensesdk.,2021-05-07,,https://flowsense.com.br/
+407,Geniee,['Advertisement'],jp.co.geniee.gnadsdk.,2021-05-07,,https://geniee.co.jp/
+408,Huq Sourcekit,"['Analytics', 'Location']",io.huq.sourcekit.,2021-05-07,,https://huq.io/
+409,Insider,['Analytics'],com.useinsider.insider,2021-05-07,,https://useinsider.com/
+410,Mopinion,"['Analytics', 'Profiling']",com.mopinion.mopinionsdk,2021-05-07,,https://mopinion.com
+411,OfferToro,['Advertisement'],com.offertoro.sdk.,2021-05-07,,http://www.offertoro.com/
+412,"OpenTelemetry (OpenCensus, OpenTracing)",['Analytics'],io.opencensus|io.opentelemetry,2021-05-07,,https://opentelemetry.io/
+413,Snapchat Login Kit,['Identification'],com.snapchat.kit.sdk.SnapLogin,2021-05-07,,https://kit.snapchat.com/docs/login-kit
+414,Zendrive,"['Analytics', 'Profiling', 'Location']",com.zendrive.sdk.,2021-05-07,,https://www.zendrive.com/
+415,fullstory,['Analytics'],com.fullstory.instrumentation.|com.fullstory.util.|com.fullstory.jni.|com.fullstory.FS|com.fullstory.rust.|com.fullstory.FSSessionData,2021-05-07,,https://www.fullstory.com/
+416,Pendo,['Analytics'],sdk.insert.io.|sdk.pendo.io.,2021-05-16,,https://www.pendo.io
+417,Plexure,['Analytics'],co.vmob.sdk,2021-05-16,,https://www.plexure.com/
+418,Swirl,[],com.swirl,2021-05-16,cdn-api\.swirl\.com,http://swirl.com/
+419,Treasure Data,"['Analytics', 'Profiling']",com.treasuredata,2021-05-16,,https://www.treasuredata.com/product/
+420,IBM Mobile Marketing (Acoustic),"['Analytics', 'Advertisement']",com.ibm.mce.sdk.|co.acoustic.mobile.push.sdk.|com.xtify.mce.sdk.|com.xtify.android.sdk.,2021-10-09,sdk6\.ibm\.xtify\.com,https://acoustic.co/
+422,Solar2D (Corona),"['Analytics', 'Advertisement']",com.ansca.corona,2021-10-09,,https://solar2d.com/

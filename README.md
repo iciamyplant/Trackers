@@ -28,6 +28,8 @@ Y a plein de langages voilà quelques un principaux :
 |Kotlin|oui|||
 |React Native|oui|oui||
 
+Développement Web côté serveur = PHP, ASP.NET, Node.JS, Python, etc
+
 ### II.1 Xcode
 
 Xcode est un environnement de développement pour macOS, ainsi que pour iOS, watchOS et tvOS. Le iOS SDK est combiné avec Xcode
@@ -44,11 +46,15 @@ Xcode est un environnement de développement pour macOS, ainsi que pour iOS, wat
 - Sur la fenêtre de gauche, troisième onglet, on a accès à toutes les classes, et toutes les méthodes qui composent chaque classes
 - developer.apple.com ==> tout un tas d'informations, doc, explication des nouveautés etc, pour les développeurs d'applications apple.
 
+|SwiftUI| StoryBoard|
+|-----|----|
+|Swift UI is basically a toolkit released by apple to create UI’s in a declarative way |Interface Builder editor within Xcode ==> makes it simple to design a full user interface without writing any code. Simply drag and drop windows, buttons, text fields, and other objects onto the design canvas to create a functioning user interface|
+
 Framework SwiftUI = a declarative framework that developers use to compose the layout and behavior of multiplatform apps
 
-### II.2 First App en Swift, avec Xcode
+### II.2 Syntaxe Swift
 
-Syntaxe Swift : [voir tutoriels youtube](https://www.youtube.com/c/ObjectifD%C3%A9veloppeur/videos)
+[voir tutoriels youtube](https://www.youtube.com/c/ObjectifD%C3%A9veloppeur/videos)
 
 ````
 var nomVariable = valeur
@@ -78,20 +84,85 @@ let jean = Utilisateur(Prenom: "jean", age:39) // une instance est une variable 
 jean.age // accéder a une propriété dinstance
 marie.age += 1 // modifier une prorpiété dinstance
 jean.sePresenter() //imaginons que y a une fonction dans la structure Utilisateur
+//les struct c'est des copies, alors que les class, tu changes les valeurs direct dnas la class
 
 Get, Set, didSet willSet
+
+var tableauEntiers: [Int] = [] //créer un tableau vide
+var listeCourses : [String] = ["oeuf", "pâtes"]
+var dictionnnaireEntiers: [Int: String] = [:] //creer un dict vide
+var partieflechettes: [String : Int] = ["Pierre": 139, "Lea": 236]
+partieflechettes["Pierre"]   //accéder a un elt du dict
+
+y a une main view controller, et des child view controller, chaque page qui peut s'afficher a sa view controller
 ```` 
 
+### II.3 First App
+
 [Tuto suivi](https://www.youtube.com/watch?v=2C8J9SJ1os8)
+````
+./Trackers/First_app 
+````
+
 
 
 # III - Récupérer des informations sur l'utilisateur
 
 ### III.1 Récupérer la localisation
 
-==> utilisation de SDK
-==> Permissions : Les permissions sont demandées sur google play que pour les autorisations qui sont considérées comme dangereuses par Google.
+1. Importer MapKit & lancer map
+````
+import MapKit
+@State private var region = MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 48.856614, longitude: 2.3522219), span: MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1)) //center c'est là où la map est centrée de base, span c'est le zoom. Coordonnées de Paname
+Map(coordinateRegion: $region, showsUserLocation: true) //c'est ici qu'on lance notre map
+.ignoresSafeArea() //ignorer la barre blanche en haut et en bas
+````
+2. Permission
+==> On ne peut pas avoir la localisation de l'utilisateur sans sa permission
+Nous ajoutons une vue pour tous les elements de localisation
+````
+final class ContentViewModel: ObservableObject
+{
+}
+````
+La principale chose dont on a besoin pour avoir l'emplacement du user est le locationManager.
+````
+var locationManager: CLLocationManager? //notre location manager
+locationManager = CLLocationManager()
+// on peut faire plein de choses avec le location manager : 
+// comme activityType => spécifier quel type d'action (courir, vélo, marche, voiture)
+// comme desiredAccuracy =>  spécifie la précision de la loc, au kilomètre, dans les 100m, etc.
+````
+[CLLocationManager Documentation](https://developer.apple.com/documentation/corelocation/cllocationmanager)
+
+Il faut check d'abord si la localisation du tel est alumée + si on a bien l'autorisation d'avoir la localisation.
+Pour les autorisations de la localsiation plusieurs cas : on peut avoir une autorisation déjà en place, une autorisation limitée, etc.
+````
+        case .notDetermined:
+            <#code#>
+        case .restricted:
+            <#code#>
+        case .denied:
+            <#code#>
+        case .authorizedAlways:
+            <#code#>
+        case .authorizedWhenInUse:
+            <#code#>
+        @unknown default:
+            <#code#>
+````
+
+Aller dans le fichier plist, ajouter une propriété + mettre le message à droite de pourquoi l'app a beosin de la loc
+
+
+
+3. On doit obligatoirement demander l'autorisation, donc ajouter une propriété dans le info.plist
+- quand le téléphone utilise l'application - Privacy when in use
+- quand l'application est en arrière plan - Privacy
+
+Permissions : Les permissions sont demandées sur google play que pour les autorisations qui sont considérées comme dangereuses par Google.
 C’est Google qui décide de quelles permissions nécessitent l’autorisation et lesquelles non. Par exemple, pour avoir accès à toutes les applications d’un téléphone, pas besoin de permissions.
+
 
 ### III.2 Autres informations
 

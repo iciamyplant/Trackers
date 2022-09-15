@@ -48,11 +48,39 @@ Framework SwiftUI = a declarative framework that developers use to compose the l
 
 ### II.2 First App en Swift, avec Xcode
 
+Syntaxe Swift : [voir tutoriels youtube](https://www.youtube.com/c/ObjectifD%C3%A9veloppeur/videos)
+
 ````
 var nomVariable = valeur
 let nomConstante = valeur
 //option + clic sur la constante = ns donne son type
-````
+let test = "coucou"
+test.count //nb de caractères dans la string test
+test.uppercased() //met en majuscules
+
+func #creer fonction
+func nomDeLaFonction(nomParametre: TypeParametre) -> TypeRetour
+{
+}
+
+struct #permet de creer notre propre type avec des variables dedans
+struct Utilisateur //NomDeLaStructure
+{
+  // propriétés(=variables liées à une strucutre) et méthodes (=fonction liée à un type)
+  let marque: String
+  var kilometrage: Int //propriété
+  func klaxonner() //méthode
+  {
+  }
+}
+
+let jean = Utilisateur(Prenom: "jean", age:39) // une instance est une variable du type de notre strucutre
+jean.age // accéder a une propriété dinstance
+marie.age += 1 // modifier une prorpiété dinstance
+jean.sePresenter() //imaginons que y a une fonction dans la structure Utilisateur
+
+Get, Set, didSet willSet
+```` 
 
 [Tuto suivi](https://www.youtube.com/watch?v=2C8J9SJ1os8)
 

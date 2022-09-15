@@ -90,9 +90,12 @@ Avertising ID = identifiants, propres à chaque smartphone, initialement conçus
 - approche la plus commune = calculer une empreinte du smartphone en collectant, par exemple, la marque, le nom du modèle, le nom et la version du firmware, la taille de l'écran, etc. Ainsi, si cet identifiant est réinitialisé, il sera fort probablement possible de l'associer à l'ancien, simplement en vérifiant l'empreinte du smartphone
 - autre approche = collecte d'identifiants uniques non réinitialisables (adresse MAC de la puce wi-fi, IMEI de la puce GSM, android id généré par Android lors du premier démarrage du smartphone)
 
-### III.4 La concentration des données personnelles
+### IV.4 La concentration des données personnelles
 
-
+````
+./Trackers/Androidtrackers_analyse //Analyse de données fournies par Exodus Privacy sur les trackers Android
+// travail fait dans le cadre du Master 2 IREN, avec @annemkht and @te-mbu
+````
 
 
 # V - Apple Guidelines ? Politique de Confidentialité des apps ? Quelles solutions ?

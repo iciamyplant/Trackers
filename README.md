@@ -1,4 +1,4 @@
-# I - Définition
+## I - Définition
 
 Trackers = pisteurs =  « morceau » de logiciel en charge de collecter des informations sur la personne qui utilise une application, ou bien sur les usages ou l'environnement de cette personne
 

@@ -1,4 +1,4 @@
-## I - Définition
+# I - Définition
 
 Trackers = pisteurs =  « morceau » de logiciel en charge de collecter des informations sur la personne qui utilise une application, ou bien sur les usages ou l'environnement de cette personne
 
@@ -109,6 +109,8 @@ y a une main view controller, et des child view controller, chaque page qui peut
 # III - Récupérer des informations sur l'utilisateur
 
 ### III.1 Récupérer la localisation
+
+[User Location on a Map Tutoriel - SwiftUI](https://www.youtube.com/watch?v=hWMkimzIQoU)
 
 1. Importer MapKit & lancer map
 ````

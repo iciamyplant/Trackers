@@ -106,7 +106,7 @@ y a une main view controller, et des child view controller, chaque page qui peut
 
 
 
-# III - Récupérer des informations sur l'utilisateur
+# III - Application avec map et user location
 
 ### III.1 Récupérer la localisation
 
@@ -166,53 +166,27 @@ Permissions : Les permissions sont demandées sur google play que pour les autor
 C’est Google qui décide de quelles permissions nécessitent l’autorisation et lesquelles non. Par exemple, pour avoir accès à toutes les applications d’un téléphone, pas besoin de permissions.
 
 
-### III.2 Autres informations
+### III.2 Stocker les données de localisation avec Firebase
+
+
+
+[tutoriel récupérer des données dans une real-time database à partir de Xcode](https://www.simplifiedios.net/firebase-realtime-database-tutorial/)
+
+
+# IV - Activité réseau d'un téléphone
 
 - Micro
 - Camera
 - Photo library
 - Contacts
 
-### III.3 Regarder l'activité réseau de l'application, quelles informations vont où ?
-
 Consulter la façon dont les apps utilisent les autorisations qui leur ont été accordées : Accédez à Réglages  > Confidentialité, puis touchez « Rapport de confidentialité des apps » (iOS 15.2 ou ultérieur)
 
 Le rapport de confidentialité des apps vous indique comment les apps utilisent les autorisations que vous leur avez accordées, ainsi que leur activité réseau. Il affiche les domaines internes utilisés par les applications et vous permet de savoir quels services/sites Web tiers, y compris les outils d’analyse et de suivi, sont contactés par l’application en arrière-plan.
 
-
-# IV - Pourquoi et comment des tiers récupèrent des données via mon application ?
-### IV.1 Trackers tiers
-
-On développe une code base, sur cette code base on pose des SDK (software development kit). SDK = Software development kit = collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework. J'ai utilisé des SDK pour gagner du temps ⇒ c’est justement dans les SDKs que je mets des trackers et que des données partent vers Google, Facebook, etc.
-
-Il y a plein de types de SDK : pour faciliter de l’UX/UI, des animations, se connecter à des services clouds, notification de crash, publicité, tracking, profilage, analyse comportementale, etc. Ils permettent de réduire les coûts de développement = par exemple pour monétiser avec Google.
-
-Ces SDK = sont des boîtes noires, c’est difficile de savoir ce qu’ils font vraiment. Certains SDK embarquent d’autres SDK. Ils vont collecter des données pour leur propose fonctionnement et envoyer les données sur les serveurs de Facebook ou Google. Les top des bibliothécaires qu’on trouve dans les applications Android sont : Google Facebook Yahoo Twitter. Quand on intègre le SDK de Facebook, ça va, sans même que l’utilisateur de l’application ce soit connecté avec son compte, collecter des données et créer un profil fantome qui va collecter différents usages du téléphone etc.
-
-### IV.2 Le marché de la publicité ciblée
-
-Les données récupérées servent à transformer les informations en un profil qui va être vendu aux annonceurs qui veulent cibler le plus précisément possible leurs publicités. Il y a aussi des sociétés qu’on ne connaît pas forcément qui agrègent toutes ces données pour les revendre. Qui récupèrent des petits morceaux à droite et à gauche et, avec toutes ces données, on obtient un être virtuel. Plus cet être est constitué, on va dire plus on a de données sur lui, plus il vaut cher.
-
-Avertising ID = identifiants, propres à chaque smartphone, initialement conçus pour les régies publicitaires (id sans avoir le vrai nom prenom etc)
-- approche la plus commune = calculer une empreinte du smartphone en collectant, par exemple, la marque, le nom du modèle, le nom et la version du firmware, la taille de l'écran, etc. Ainsi, si cet identifiant est réinitialisé, il sera fort probablement possible de l'associer à l'ancien, simplement en vérifiant l'empreinte du smartphone
-- autre approche = collecte d'identifiants uniques non réinitialisables (adresse MAC de la puce wi-fi, IMEI de la puce GSM, android id généré par Android lors du premier démarrage du smartphone)
-
-### IV.4 La concentration des données personnelles
+# V - La concentration des données personnelles
 
 ````
 ./Trackers/Androidtrackers_analyse //Analyse de données fournies par Exodus Privacy sur les trackers Android
 // travail fait dans le cadre du Master 2 IREN, avec @annemkht and @te-mbu
 ````
-
-
-# V - Apple Guidelines ? Politique de Confidentialité des apps ? Quelles solutions ?
-
-Quels sont les checks qui sont faits pour pouvoir être sur Google Play ? Sur l'Apple Store ?
-
-Les entreprises doivent faire de l’audit et adapter, injecter des données dans l’application, puis voir où partent les données, à qui.
-les SDK adaptent leur comportement selon l’environnement d’exéctuion, donc ne pas faire le test en debug.
-
-# VI - Exodus Privacy
-
-Ils n’ont pas accès au code source des applications, ils doivent se contenter des classes Java, qu’il récupèrent grâce à l’outil DexDump. D’un côté avoir l’application, récupérer la liste des classes Java, de l’autre côté avoir la liste des pisteurs qu’on a et puis on vérifie si telle ligne existe dans les pisteurs.
-
